@@ -4,9 +4,9 @@ Instructor files are titled givenname-familyname.md
 
 ## Legend
 
-* given-name* - first name
+* *given-name* - first name, required 
 * *additional-name* - middle name or nick name
-* *family-name* - surname
+* *family-name* - surname, required 
 * *locality* - city
 * *region* - state
 * *country-name* - country
@@ -14,5 +14,5 @@ Instructor files are titled givenname-familyname.md
 * *url* - personal site or employer site
 * *photo-url* - link to high-resolution, square headshot. Feel free to upload it to this repo in this format givenname-familyname.jpg
 
-Bio should be written in third person, no more than three sentences.
+Bio should be written in third person, no more than three sentences. Required.
 
