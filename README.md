@@ -13,6 +13,8 @@ Instructor files are titled givenname-familyname.md
 * *organization* - employer 
 * *url* - personal site or employer site
 * *photo-url* - link to high-resolution, square headshot. Feel free to upload it to this repo in this format givenname-familyname.jpg
+* *twitter-url* - link to Twitter profile, include @ before username
+* *github-url* - link to GitHub profile
 
 Bio should be written in third person, no more than three sentences. Required.
 
