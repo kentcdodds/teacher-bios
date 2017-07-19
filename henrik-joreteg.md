@@ -8,8 +8,8 @@ country-name: United States
 organization: &yet
 url: https://joreteg.com/
 photo-url: 
-twitter-url: https://twitter.com/@henrikjoreteg
-github-url: https://github.com/HenrikJoreteg
+twitter-username: @henrikjoreteg
+github-username: HenrikJoreteg
 ---
 Henrik is a Partner and lead JS developer at &yet, where he’s written scores of JS apps dozens of different ways. At &yet, he provides consulting and training on JavaScript and HTML5 applications.
 

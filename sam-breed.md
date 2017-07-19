@@ -8,6 +8,6 @@ country-name:
 organization: Credit Karma
 url: https://wookiehangover.com/
 photo-url: 
-twitter-url: https://twitter.com/@sambreed
-github-url: https://github.com/wookiehangover
+twitter-username: @sambreed
+github-username: wookiehangover
 ---

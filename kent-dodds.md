@@ -8,6 +8,6 @@ country-name: United States
 organization: PayPal
 url: https://kentcdodds.com/
 photo-url: 
-twitter-url: https://twitter.com/@kentcdodds
+twitter-username: @kentcdodds
 github-url:https://github.com/kentcdodds
 ---

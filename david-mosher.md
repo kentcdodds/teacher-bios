@@ -8,6 +8,6 @@ country-name: Canada
 organization: Test Double
 url:http://blog.davemo.com/
 photo-url: 
-twitter-url: https://twitter.com/@dmosher
-github-url: https://github.com/davemo
+twitter-username: @dmosher
+github-username: davemo
 ---

@@ -8,7 +8,7 @@ country-name: United States
 organization: Brave
 url: https://jonkuperman.com/
 photo-url: 
-twitter-url: https://twitter.com/@jkup
-github-url: https://github.com/jkup
+twitter-username: @jkup
+github-username: jkup
 ---
 Software Engineer at Brave

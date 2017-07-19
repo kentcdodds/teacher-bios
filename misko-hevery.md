@@ -9,6 +9,6 @@ organization:
 url: http://misko.hevery.com/
 photo-url: 
 twitter-url: 
-github-url: https://github.com/mhevery
+github-username: mhevery
 ---
 AngularJS Creator

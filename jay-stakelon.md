@@ -8,8 +8,8 @@ country-name: United States
 organization: Facebook
 url:http://www.stakelon.com/
 photo-url: 
-twitter-url: https://twitter.com/@stakelon
-github-url: https://github.com/stakes
+twitter-username: @stakelon
+github-username: stakes
 ---
 Jay is like a Swiss army knife for digital products. He’s been designing with code for 10 years with expertise in product management, user experience design and software development.
 

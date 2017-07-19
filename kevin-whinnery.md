@@ -8,7 +8,7 @@ country-name: United States
 organization: Twilio Node Module
 url: http://kevinwhinnery.com/
 photo-url: 
-twitter-url: https://twitter.com/@kwhinnery 
-github-url: https://github.com/kwhinnery
+twitter-username: @kwhinnery 
+github-username: kwhinnery
 ---
 

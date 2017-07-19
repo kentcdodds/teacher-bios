@@ -8,8 +8,8 @@ country-name:
 organization: Levanto Financial
 url: https://mike.works/
 photo-url: 
-twitter-url: https://twitter.com/@michaellnorth
-github-url: https://github.com/mike-north
+twitter-username: @michaellnorth
+github-username: mike-north
 ---
 Mike is a modern web consultant, and Staff Engineer at LinkedIn, where he works with the Web Frameworks team to maintain the company’s tech stack. 
 

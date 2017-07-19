@@ -8,8 +8,8 @@ country-name: Canada
 organization: Shopify
 url: https://snook.ca/
 photo-url: 
-twitter-url: https://twitter.com/@snookca 
-github-url: https://github.com/snookca 
+twitter-username: @snookca 
+github-username: snookca 
 ---
 Jonathan writes about tips, tricks, and bookmarks on his blog at Snook.ca. He has also written for A List Apart, 24ways, and .net magazine, and has co-authored two books, The Art and Science of CSS and Accelerated DOM Scripting.
 

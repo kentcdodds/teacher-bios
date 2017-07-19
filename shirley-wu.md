@@ -8,8 +8,8 @@ country-name: United States
 organization: 
 url: http://sxywu.com/
 photo-url: 
-twitter-url: https://twitter.com/@sxywu
-github-url: https://github.com/sxywu 
+twitter-username: @sxywu
+github-username: sxywu 
 ---
 Shirley Wu is currently a freelance consultant specializing in data visualization. Previously, she was a software engineer at security company Illumio working on an interesting part of the product called Illumination: a visualization of application traffic and visual tools for writing security policy on top of them.
 

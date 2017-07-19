@@ -8,8 +8,8 @@ country-name:
 organization: h+w design
 url: http://rwt.io/
 photo-url: 
-twitter-url: https://twitter.com/@jpamental
-github-url: https://github.com/jpamental
+twitter-username: @jpamental
+github-username: jpamental
 ---
 Jason Pamental is co-founder of h+w design, author of the ‘Responsive Typography’ book from O’Reilly, overall web & typography nerd who specializes in being a generalist.
 
