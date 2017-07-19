@@ -8,8 +8,8 @@ country-name: United States
 organization: 
 url: http://www.jenkramer.org
 photo-url: https://raw.githubusercontent.com/FrontendMasters/teacher-bios/master/jen-kramer.jpg
-twitter-url: http://twitter.com/@jen4web
-github-url: http://github.com/jen4web 
+twitter-username: @jen4web
+github-username: jen4web 
 ---
 For more than seventeen years, Jen Kramer has been educating clients, colleagues, friends and graduate students about the meaning of a "quality website." Since 2000, she has built websites that are supportive of business and marketing goals in a freelance capacity and as part of an agency.
 
