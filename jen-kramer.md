@@ -7,7 +7,7 @@ region:
 country-name: United States
 organization: 
 url: http://www.jenkramer.org
-photo-url: http://example.com/img/johnny-appleseed.jpg
+photo-url: https://raw.githubusercontent.com/FrontendMasters/teacher-bios/master/jen-kramer.jpg
 twitter-url: http://twitter.com/@jen4web
 github-url: http://github.com/jen4web 
 ---
