@@ -2,14 +2,13 @@
 given-name: Sarah	
 additional-name: 
 family-name: Drasner
-locality: San Francisco
-region: California
+locality: Denver
+region: Colorado
 country-name: United States 
-organization: Trulia
+organization: Microsoft
 url: https://sarahdrasnerdesign.com/
 photo-url:
 twitter-username: @sarah_edo
 github-username: sdras
 ---
-Sarah Drasner a Senior UX Engineer at Trulia (Zillow Group) and a staff writer for CSS-Tricks. Formerly she was Senior Interaction Designer at Fauna, Inc., a company founded by former Lead Engineers from Twitter. She is also the former Head of Design and Front-End Development at Basho, creators of Riak. At Basho, she increased lead generation by 75% through design improvements and managed all branding and visual communication.
-
+Sarah is an award-winning Speaker, Senior Developer Advocate at Microsoft, and Staff Writer at CSS-Tricks. Sarah is also the co-founder of Web Animation Workshops, with Val Head. She’s the author of SVG Animations from O’Reilly and has given Frontend Masters workshops on Vue.js and Advanced SVG Animations. Sarah is formerly Manager of UX Design & Engineering at Trulia (Zillow).
