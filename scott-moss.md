@@ -7,7 +7,7 @@ region: California
 country-name: United States 
 organization: Tipe
 url: https://tipe.io
-photo-url: https://res.cloudinary.com/angularclass/image/upload/v1502259905/scott.png
+photo-url: 
 twitter-username: @scotups
 github-username: Hendrixer
 ---
