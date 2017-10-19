@@ -5,6 +5,7 @@ family-name: Snook
 locality: Ottawa
 region: Ontario
 country-name: Canada
+job-title: 
 organization: Shopify
 url: https://snook.ca/
 photo-url: 

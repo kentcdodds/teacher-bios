@@ -5,6 +5,7 @@ family-name: Kramer
 locality: 
 region: 
 country-name: United States
+job-title: 
 organization: 
 url: http://www.jenkramer.org
 photo-url: https://raw.githubusercontent.com/FrontendMasters/teacher-bios/master/jen-kramer.jpg
