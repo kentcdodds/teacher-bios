@@ -5,6 +5,7 @@ family-name: Appleseed
 locality: Cupertino
 region: CA
 country-name: United States
+job-title: 
 organization: Contoso
 url: http://example.com/
 photo-url: http://example.com/img/johnny-appleseed.jpg
