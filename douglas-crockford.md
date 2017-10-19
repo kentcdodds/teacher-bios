@@ -5,6 +5,7 @@ family-name: Crockford
 locality: 
 region: 
 country-name: 
+job-title: 
 organization: Paypal
 url: http://www.crockford.com/
 photo-url: 

@@ -5,6 +5,7 @@ family-name: Gonzalez
 locality: York 
 region: Pennsylvania
 country-name: United States
+job-title: 
 organization: Clipper Magazine
 url: http://blog.nemikor.com/
 photo-url: 

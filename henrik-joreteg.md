@@ -5,6 +5,7 @@ family-name: Joreteg
 locality: Spokane
 region: Washington
 country-name: United States
+job-title: 
 organization: &yet
 url: https://joreteg.com/
 photo-url: 

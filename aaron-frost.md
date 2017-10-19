@@ -5,6 +5,7 @@ family-name: Frost
 locality: Salt Lake City
 region: Utah
 country-name: United States 
+job-title: 
 organization: Domo, Inc.
 url: 
 photo-url: 

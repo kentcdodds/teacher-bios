@@ -5,6 +5,7 @@ family-name: Kinney
 locality: Denver
 region: Colorado
 country-name:United States 
+job-title: 
 organization: SendGrid
 url: http://www.stevekinney.net/
 photo-url: 

@@ -5,6 +5,7 @@ family-name: Feldman
 locality: San Francisco
 region: California
 country-name: United States 
+job-title: 
 organization: Manning Publications
 url: 
 photo-url: 

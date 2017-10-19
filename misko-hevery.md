@@ -5,6 +5,7 @@ family-name: Hevery
 locality: Saratoga
 region: California
 country-name: United States 
+job-title: 
 organization: 
 url: http://misko.hevery.com/
 photo-url: 

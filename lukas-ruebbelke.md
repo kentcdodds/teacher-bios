@@ -5,6 +5,7 @@ family-name: Ruebbelke
 locality: Phoenix
 region: Arizona 
 country-name: United States
+job-title:
 organization: Contoso
 url: http://onehungrymind.com/
 photo-url:

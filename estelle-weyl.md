@@ -5,6 +5,7 @@ family-name: Weyl
 locality: San Francisco
 region: California
 country-name: United States
+job-title: 
 organization: Instart Logic
 url: http://www.standardista.com/
 photo-url: 

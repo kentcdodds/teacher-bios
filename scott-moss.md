@@ -5,6 +5,7 @@ family-name: Moss
 locality: San Francisco
 region: California
 country-name: United States 
+job-title: 
 organization: Tipe
 url: https://tipe.io
 photo-url: 

@@ -5,6 +5,7 @@ family-name: Gandolfo
 locality: 
 region: 
 country-name: 
+job-title: 
 organization: Bitovi
 url: https://frontendmasters.com/workshops/algorithms-data-structures-js/
 photo-url: 

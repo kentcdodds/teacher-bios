@@ -5,6 +5,7 @@ family-name: Dodds
 locality: Salt Lake City	
 region: Utah
 country-name: United States
+job-title:
 organization: PayPal
 url: https://kentcdodds.com/
 photo-url: 

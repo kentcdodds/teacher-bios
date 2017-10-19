@@ -5,6 +5,7 @@ family-name: Simpson
 locality: Austin
 region: Texas
 country-name: United States 
+job-title:
 organization: MakerSquare
 url:
 photo-url: 

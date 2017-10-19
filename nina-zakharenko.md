@@ -5,6 +5,7 @@ family-name: Zakharenko
 locality: Park City
 region: Utah
 country-name: United States 
+job-title: 
 organization: reddit
 url: http://nnja.io/
 photo-url: https://avatars2.githubusercontent.com/u/2030983?v=3&s=400

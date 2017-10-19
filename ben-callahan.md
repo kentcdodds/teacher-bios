@@ -5,6 +5,7 @@ family-name: Callahan
 locality: Dayton
 region: Ohio
 country-name: United States 
+job-title: 
 organization: Sparkbox
 url: http://bencallahan.com/
 photo-url: 

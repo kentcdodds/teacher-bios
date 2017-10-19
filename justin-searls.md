@@ -5,6 +5,7 @@ family-name: Searls
 locality: Columbus
 region: Ohio
 country-name: United States
+job-title:
 organization: 
 url: http://testdouble.com/
 photo-url: 

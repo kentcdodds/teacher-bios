@@ -5,6 +5,7 @@ family-name: Jordan
 locality: Boston 	
 region: Massachuessets
 country-name: United States
+job-title:
 organization: Litmus
 url: http://www.justinej.com/
 photo-url: 

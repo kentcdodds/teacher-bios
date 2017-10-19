@@ -5,6 +5,7 @@ family-name: Means
 locality: 
 region: 
 country-name: 
+job-title: 
 organization: Etsy
 url: http://garann.com/
 photo-url: 

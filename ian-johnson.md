@@ -5,6 +5,7 @@ family-name: Johnson
 locality: San Francisco
 region: California
 country-name: United States
+job-title: 
 organization: 
 url: http://enja.org/
 photo-url: 

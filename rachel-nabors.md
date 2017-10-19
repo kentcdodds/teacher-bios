@@ -5,6 +5,7 @@ family-name: Nabors
 locality: 
 region: 
 country-name: 
+job-title: 
 organization: Microsoft
 url: http://rachelnabors.com/
 photo-url: 

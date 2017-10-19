@@ -5,6 +5,7 @@ family-name: Scott
 locality: 
 region: 
 country-name: 
+job-title: 
 organization: PayPal
 url: http://www.looksgoodworkswell.com/
 photo-url: 

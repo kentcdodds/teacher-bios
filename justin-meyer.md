@@ -5,6 +5,7 @@ family-name: Meyer
 locality: Chicago	
 region: Illinois
 country-name: United States
+job-title:
 organization: Bitovi
 url: https://www.bitovi.com/
 photo-url: 
