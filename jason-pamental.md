@@ -1,10 +1,11 @@
 ---
 given-name: Jason
 additional-name: 
-family-name:Pamental
+family-name: Pamental
 locality: 
 region: 
 country-name: 
+job-title: 
 organization: h+w design
 url: http://rwt.io/
 photo-url: 
