@@ -5,7 +5,8 @@ family-name: North
 locality:
 region:
 country-name:
-organization: Levanto Financial
+job-title: Staff Engineer
+organization: LinkedIn
 url: https://mike.works/
 photo-url:
 twitter-username: @michaellnorth
