@@ -5,7 +5,8 @@ family-name: Schmitt
 locality: Austin
 region: Texas
 country-name: United States
-organization: HeatVision.com, Inc.
+job-title: VP of Publishing
+organization: Frontend Masters
 url: http://christopher.org/
 photo-url: 
 twitter-username: @teleject
